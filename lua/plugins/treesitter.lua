@@ -12,6 +12,7 @@ return {
       "cpp",
       "rust",
       "toml",
+      "zig",
     },
   },
 }
