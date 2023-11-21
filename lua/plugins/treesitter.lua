@@ -13,6 +13,7 @@ return {
       "rust",
       "toml",
       "zig",
+      "java",
     },
   },
 }
